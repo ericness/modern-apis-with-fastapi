@@ -1,7 +1,6 @@
 import datetime
 from typing import List, Optional
 
-from dateutil.parser import parse
 from pydantic import BaseModel
 
 order_json = {
